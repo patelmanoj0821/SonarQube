@@ -1,0 +1,44 @@
+Passionate and experienced software developer with demonstrated history of working in e-commerce industry (Telecommunications domain ) with more than 6 years of experience . Skilled in Java/JEE , Oracle web commerce (ATG),Spring Boot with Rest API (Microservices ) ,AWS(Elastic Load Balances (ELB), Elastic Compute Cloud (EC2),EBS,Simple Storage Service(S3),IAM,VPC,ECS,Cloud front ,Codecommit ) .Jenkins CI/CD and monitoring capability tools Grafana and Prometheus with Devops with Agile methodologies.A good team player as well as a individual contributor , highly detail and result oriented with strong analytical and problem solving skills.
+===========================================================================================================================================
+
+I am working in T-Mobile from past 1+ years as a senior web developer and helping T-Mobile to progress toward digitalization of  their Business to Business capabilities . With the help of T-Mobile Self-Service Project (SSP/AHUB).
+Roles & Responsibilities: 
+1.Have developed UI experience for business customers to login and perform different transactions as purchasing and upgrading phones and lines .Using Skava commerce platform.Part of key design decisions along with infrastructure and Devops activities .
+2.Entire infrastructure is hosed in AWS with Blue Green deployment mechanism with Disaster Recovery(DR) capabilities .Automated environment creation using Terrform and Ansible scripts.Which will take care of creating all AWS core capabilities like EC2,S3,VPC,IAM,CloudFront,Elastic Block storage,RDS,Route 53. 
+3.Created Jenkins CI/CD pipelines to support complete automation of continuous integration and continuous deployment activities.
+4.Using Prometheus data sources , I have created Grafana dashboards for continues monitoring and have setup automated alerting mechanism for infrastructure monitoring .
+5.Integrated production and preproduction environments with Incapsule/Imperva &WAF.Deployed skava microservices onto Marathon along with auto scaling.
+6.Created SonarQube 7.9.1 server along with postgresql and integrated it with Jenkins pipeline for complete code coverage/code scan .
+7.Migrated microservices deployment from Marathon to Kubernetes Orchestration.Migrated from standalone EC2 mysql instances to AWS RDS services.
+8.Integrated application with App Dynamics (AppD) for performance monitoring as well as infrastructure monitoring . Deployed AppD agents into our Docker containers to achieve infrastructure monitoring.
+9.Running production support development activities,actively involved in resolving issues ,will regularly interact with Customer Representative teams to understand end user expectations and pain points to suggest enhancements .
+
+
+
+===================================================================================================================================
+I have worked as Senior Software Engineer in AT&T Inc. for their online application named Premier for Business to Business(B2B) Customers.Premier is a platform which provides different capabilities to their user which includes shopping, managing billing and accounts along with the managing profiles/user under different business organization.
+Roles & Responsibilities:
+1.As part of my AT&T tenure , I had involved in Agile team which mainly deals with Premier online store experience which is built on Oracle Commerce(ATG).
+2.Completely redesigned premier's legacy checkout experience to latest digital standards including look and feel along with core capabilities including Address validation service as per USPS address standards .
+3.Implemented packages (phone+plan+accessories)which will make customer journey easy and save their time by saving the packages which they want to buy .
+4.Part of regular scrums and requirements elicitation ,grooming sessions & design decisions.
+5.Redesigned login experience and enabled CAPTCHA for application security, based on the request's origin IP(US vs Non-US requests).
+6.Integrated premier's catalog with BazaarVoice for product rating and reviews using SOAP. 
+7.Fixed many of the performance and security issues related to ATG formvalidations and order services.
+8.Part of production support team as well as SWAT team which will be the first responder to any issues observed related to application and resolved many defects including promotions,pricing and order pipelines.
+9.Used targeters and schedulers to send out orders to OMS system .
+=============================================================================================================================================
+Worked as Software Engineer for Vodafone UK client , which is one of the world's leading mobile communication provider.I was part of their Business to Consumer (B2C) platform , where users can buy their Phones,plans along with accessories which can be of pay as you go or pay monthly .
+Roles & Responsibilities:
+1.Implemented Mixed basket capabilities using ATG targeters and ATG pipeline , where we can promote SIM sales on Basket page and can be added to cart directly.
+2.Implemented Click to Store capabilities and integrated with Google map's API's for store finding capabilities.
+3.Involved in requirements analysis level and understanding client expectations.
+4.Writing LDL documents and developing final product.
+5.Part of bug fixing and providing support for CI & SIT testing along with UAT testing.
+
+
+
+
+
+
+
